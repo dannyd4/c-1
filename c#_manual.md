@@ -21,4 +21,4 @@ if (username.ToLower() == "маша") - проверка условия (ТоLow
 
 ### Виды переменных
 
-![image] (1.png "")
+![картинка](1.png "type of var")
