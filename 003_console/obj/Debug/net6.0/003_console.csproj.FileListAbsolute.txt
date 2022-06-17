@@ -1,0 +1,15 @@
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.csproj.AssemblyReference.cache
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.AssemblyInfoInputs.cache
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.AssemblyInfo.cs
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.csproj.CoreCompileInputs.cache
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\bin\Debug\net6.0\003_console.exe
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\bin\Debug\net6.0\003_console.deps.json
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\bin\Debug\net6.0\003_console.runtimeconfig.json
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\bin\Debug\net6.0\003_console.dll
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\bin\Debug\net6.0\003_console.pdb
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.dll
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\refint\003_console.dll
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.pdb
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\003_console.genruntimeconfig.cache
+C:\Users\MRU024\Desktop\ДЕНИС\C#\003_console\obj\Debug\net6.0\ref\003_console.dll
