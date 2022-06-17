@@ -1,13 +1,14 @@
-﻿Console.Write("Enter user name ");
+﻿Console.Write("Enter user name: ");
+
 string username = Console.ReadLine();
 
-if (username == "Маша")
+if (username.ToLower() == "маша")
 {
     Console.WriteLine("Ура! Это же Маша");
 }
 else
 {
-    Console.Write("Hello,");
+    Console.Write("Hello, ");
     Console.WriteLine(username);
 }
 
